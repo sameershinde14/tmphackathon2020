@@ -18271,6 +18271,9 @@ a.slds-button--inverse:focus{
   background-color:white;
   font-size:inherit;
 }
+.slds-table_hidden{
+  visibility:hidden
+}
 .slds-table th,
 .slds-table td{
   padding:0.25rem 0.5rem;

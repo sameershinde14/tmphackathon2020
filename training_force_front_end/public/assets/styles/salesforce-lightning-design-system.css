@@ -309,7 +309,7 @@ html{
   font-family:"Salesforce Sans", Arial, sans-serif;
   font-size:100%;
   line-height:1.5;
-  background:#ffffff;
+  background:#b0c4df;
   color:#080707;
   -webkit-tap-highlight-color:rgba(0, 0, 0, 0);
 }
@@ -17407,6 +17407,10 @@ a.slds-button--inverse:focus{
   z-index:10000;
   text-align:center;
 }
+.slds-notify-toast-hidden{
+  visibility: hidden;
+}
+
 .slds-notify_toast,
 .slds-notify--toast{
   color:white;
@@ -18270,9 +18274,6 @@ a.slds-button--inverse:focus{
 .slds-table{
   background-color:white;
   font-size:inherit;
-}
-.slds-table_hidden{
-  visibility:hidden
 }
 .slds-table th,
 .slds-table td{

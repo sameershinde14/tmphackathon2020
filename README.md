@@ -1,11 +1,19 @@
 # Salesforce TMP Hackathon 2020
 
-## Contributors: 
--Manish Verma
--Sameer Shinde
--Utkarsh Jain
--Varun Gupta
+Hi! We were bored during Covid-19 lockdown and so we decided to take part in this. Let's see if we win.
 
-## TrainingForce:
-A Bot which can be trained according to custom catchphrases to make training and analysis of sales and customer reps easier. 
-Will make you $$$$ in the long run.
+# Files
+**Only** Frontend is here. Reason explained in Contributors. 
+
+# Contributors
+Everyone worked on it, but Varun's API's weren't used. The frontend was too cool to handle the endpoints
+
+- Manish Verma
+- Sameer Shinde
+- Utkarsh Jain
+- Varun Gupta
+
+
+## Salesforce Lightning Design System
+
+[https://www.lightningdesignsystem.com/](https://www.lightningdesignsystem.com/)
